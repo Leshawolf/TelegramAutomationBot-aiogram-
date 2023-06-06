@@ -49,3 +49,6 @@
 #### - If a user replaces the keys in an account that has already subscribed to someone but has not received a reciprocal subscription yet, the bot may malfunction or stop working. This is because the bot will continue using the old keys for checking the reciprocal subscription, while the account will be using the new keys. As a result, authentication and interaction with the Twitter API can be disrupted. To avoid such situations, it is recommended to check and update the keys in the bot's accounts only after completing the reciprocal subscription check or block the ability to change keys if the bot has not been run for the past 3 hours.
 
 ### All the necessary libraries for the correct operation of the bot are in the file "requarments.txt"
+
+###### author: Aleksey Volchek  
+###### first publication:06.06.2023
