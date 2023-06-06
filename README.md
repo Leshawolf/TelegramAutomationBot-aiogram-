@@ -16,7 +16,7 @@
 ## Logical structure of use
 ![AutomationBot_Logic_Shema](https://github.com/Leshawolf/TelegramAutomationBot/assets/74571120/29e6c389-9cea-400a-8098-965b3890fc99)
 
-## Database Structure
+## Database Structure (MySQL)
 1. Table "tweeter_subscriptions":
 >- id (int) / Null - no / auto_increment
 >- tgID_user (text) / Null - no
