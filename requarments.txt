@@ -1,0 +1,14 @@
+loguru
+asyncio
+logging
+typing
+aiogram
+aiomysql
+pathlib
+environs
+apscheduler
+requests
+json
+aiohttp
+twarc
+itertools
